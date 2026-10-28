@@ -26,7 +26,7 @@ Learn how to check where you are and explore folders.
 
 **Submit a screenshot of every step to the images folder**
 `images/CLI_step1.jpg`
-![img alt](screenshots/ss_1.png)
+![img alt](assets/ss_1.png)
 
 `images/CLI_step2.jpg`
 
