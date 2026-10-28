@@ -1,0 +1,1 @@
+This is my first Raspberry pi CLI note!
