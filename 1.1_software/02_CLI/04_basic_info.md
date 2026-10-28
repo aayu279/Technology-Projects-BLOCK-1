@@ -20,4 +20,6 @@ Use CLI commands to inspect your system.
 
 **Upload screenshots for every step**
 
-
+![img alt](assets/sa_1.png)
+![img alt](assets/sa_2.png)
+![img alt](assets/sa_3.png)
