@@ -19,5 +19,8 @@ Explore network tools and check connectivity.
    ```
 
 **Upload screenshots for every step**
+![img alt](assets/tg_1.png)
+![img alt](assets/tg_2.png)
+![img alt](assets/tg_3.png)
 
 
